@@ -10,6 +10,7 @@
   <img height="200em" src="https://github.com/cssgabriel/2022_CS50_HARVARD/blob/main/CS50.png"/>
 </div>
 
+<p><em>*O objetivo deste repositório é compartilhar com todos a resolução de meus exercícios, e motivá-lo a cursar este curso incrível!</em></p>
 <hr>
 
 <h2>Introdução</h2>
@@ -22,7 +23,7 @@
 
 <p>Além disso, com este curso você aprenderá a <strong>pensar algoritmicamente</strong> e a enxergar os problemas do mundo real de um novo ponto de vista. Aqui você aprende coisas que com certeza podem ser úteis para alunos de qualquer curso, com qualquer ideal de carreira</p>
 
-<h3>Conteúdo</h3>
+<h2>Conteúdo</h2>
 
 <p>O curso possui <strong>10 módulos</strong>. Sendo eles:</p>
 <ul>
@@ -40,6 +41,6 @@
   <li><strong>Encerramento do Curso</strong></li>
 </ul>
 
-<h2></h2>
+<h2>Em Construção...</h2>
 
 <p>Gostaria de deixar os créditos, e agradecimentos, à <strong>Fundação Estudar</strong>. Caso queira fazer o CC50 (versão oficial totalmente legendada para o português), <a href="https://materiais.estudarfora.org.br/cc50-harvard/">toque aqui!</a></p>
